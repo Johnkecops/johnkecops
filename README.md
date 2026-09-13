@@ -11,7 +11,7 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 - Bachelor's and Master's in Chemistry (Biotechnology stream), Universitas Indonesia
 - Dr. rer. nat. in Bioinformatics, Bioinformatics Group, University of Leipzig, Germany (DAAD fellow). Doctoral work: modern protein domain annotation across the three domains of life
 - Current interests: structural bioinformatics, transcriptomics and proteomics, bioalgorithms, immunoinformatics, and the application of AI to life-science problems
-- Editorial work: editorial board member at Springer Nature journals (BMC Bioinformatics, Scientific Reports); editor of several IntechOpen volumes on CRISPR, antiviral strategies, COVID-19 drug development, and omics-driven drug design
+- Editorial work: editorial board member at Springer Nature journals (BMC Bioinformatics, Scientific Reports, Scientific Review, Discover Life, and Discover Bacteria); editor of several IntechOpen volumes on CRISPR, antiviral strategies, COVID-19 drug development, and omics-driven drug design
 
 ## Award
 1. Editor of Distinction Awards: Author Service Award 2026 from BMC Bioinformatics Journal
