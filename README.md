@@ -21,11 +21,9 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 
 `Python` · `Streamlit` · `Biopython` · `RDKit` · molecular docking and MD (AutoDock Vina, OpenMM) · RNA structure prediction (ViennaRNA) · domain annotation (InterPro, Pfam) · TCGA / NCBI / UniProt / PDB data mining
 
-## Publications and profiles
+## More on Publications and profiles
 
-- ORCID: [0000-0001-8716-3926](https://orcid.org/0000-0001-8716-3926)
 - Google Scholar: [profile](https://scholar.google.com/citations?user=TjaczhcAAAAJ)
-- Web of Science: [A-1090-2012](https://www.webofscience.com/wos/author/record/A-1090-2012)
 - i3L faculty page: [i3l.ac.id](https://i3l.ac.id/our-faculty/dr-rer-nat-arli-aditya-parikesit)
 - ResearchGate: [Arli-Aditya-Parikesit](https://www.researchgate.net/profile/Arli-Aditya-Parikesit)
 - IntechOpen: [profile](https://www.intechopen.com/profiles/72288)
