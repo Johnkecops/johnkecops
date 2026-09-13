@@ -15,7 +15,8 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 
 ## Award
 1. Editor of Distinction Awards: Author Service Award 2026 from BMC Bioinformatics Journal
-<img width="841" height="596" alt="image" src="https://github.com/user-attachments/assets/4490e70e-50ee-4c5b-9f2f-e2196987af2b" />
+<img width="2339" height="1654" alt="award-2026" src="https://github.com/user-attachments/assets/a73c9a27-c205-4e87-9a4b-8e56f056783c" />
+
 
    
 ## What you'll find in this account
