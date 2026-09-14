@@ -1,6 +1,6 @@
 # Arli Aditya Parikesit
 
-**Dr. rer. nat. | Faculty member of Bioinformatics streaming and Visiting Professor at School of Busisness and Management, i3L University, Jakarta**
+**Dr. rer. nat. | [Faculty member of Bioinformatics streaming and Visiting Professor at School of Busisness and Management, i3L University, Jakarta](https://i3l.ac.id/indonesia-international-institute-for-life-sciences/about-i3l/faculty-members/dr-rer-nat-arli-aditya-parikesit-s-si-m-si/)**
 
 Bioinformatician working on immunoinformatics, in silico drug design, in silico transcriptomics, and protein domain annotation. Former Vice-Rector of Research and Industrial Collaboration at i3L University. Professional Scientific Journal and Book editor.
 
