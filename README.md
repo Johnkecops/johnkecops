@@ -1,6 +1,6 @@
 # Arli Aditya Parikesit
 
-**Dr. rer. nat. | [Faculty member of Bioinformatics streaming and Visiting Professor at School of Busisness and Management, i3L University, Jakarta](https://i3l.ac.id/indonesia-international-institute-for-life-sciences/about-i3l/faculty-members/dr-rer-nat-arli-aditya-parikesit-s-si-m-si/)**
+**Dr. rer. nat. (PhD)| [Faculty member of Bioinformatics streaming and Visiting Professor at School of Busisness and Management, i3L University, Jakarta](https://i3l.ac.id/indonesia-international-institute-for-life-sciences/about-i3l/faculty-members/dr-rer-nat-arli-aditya-parikesit-s-si-m-si/)**
 
 Bioinformatician working on immunoinformatics, in silico drug design, in silico transcriptomics, and protein domain annotation. Former Vice-Rector of Research and Industrial Collaboration at i3L University, Jakarta, Indonesia. Professional Scientific Journal and Book editor.
 
@@ -9,7 +9,7 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 ## About me
 
 - Bachelor's and Master's in Chemistry (Biotechnology stream), Universitas Indonesia
-- Dr. rer. nat. in Bioinformatics, Bioinformatics Group, University of Leipzig, Germany (DAAD fellow). Doctoral work: modern protein domain annotation across the three domains of life
+- Dr. rer. nat. (PhD) in Bioinformatics, Bioinformatics Group, University of Leipzig, Germany (Supported by [the DAAD fellowship](https://www.daad.de/en/)). Doctoral work: modern protein domain annotation across the three domains of life
 - Current interests: structural bioinformatics, transcriptomics and proteomics, bioalgorithms, immunoinformatics, and the application of AI to life-science problems
 - Editorial work: editorial board member at Springer-Nature journals ([BMC Bioinformatics](https://link.springer.com/journal/12859/editorial-board), [Scientific Reports](https://www.nature.com/srep/about/editors), [Scientific Review](https://www.nature.com/scirev/editors), [Discover Life](https://link.springer.com/journal/11084/editorial-board), and [Discover Bacteria](https://link.springer.com/journal/44351/editorial-board)); academic editor of several IntechOpen volumes on CRISPR, antiviral strategies, COVID-19 drug development, and omics-driven drug design; editor of [Indonesian Journal of Biotechnology](https://journal.ugm.ac.id/ijbiotech/about/editorialTeam); academic editor of [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/static/editorial-board?ae_name=Arli+Aditya+Parikesit) 
 
