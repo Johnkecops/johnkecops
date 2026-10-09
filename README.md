@@ -2,7 +2,7 @@
 
 **Dr. rer. nat. (PhD)| [Faculty member of Bioinformatics streaming and Visiting Professor at School of Busisness and Management, i3L University, Jakarta](https://i3l.ac.id/indonesia-international-institute-for-life-sciences/about-i3l/faculty-members/dr-rer-nat-arli-aditya-parikesit-s-si-m-si/)**
 
-Bioinformatician working on immunoinformatics, in silico drug design, in silico transcriptomics, and protein domain annotation. Former Vice-Rector of Research and Industrial Collaboration at i3L University, Jakarta, Indonesia. Professional Scientific Journal and Book editor.
+Bioinformatician working on immunoinformatics, in silico drug design, in silico transcriptomics, and protein domain annotation. Former Vice-Rector of Research and Industrial Collaboration at i3L University, Jakarta, Indonesia. Professional Scientific Journal and Book editor. More on bioinformatics as a branch of life sciences, could be read in [here](https://github.com/Johnkecops/johnkecops/blob/main/Introduction_to_Bioinformatics.md).
 
 ---
 
