@@ -16,7 +16,8 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 ## Award
 1. Editor of Distinction Awards: Author Service Award 2026 from BMC Bioinformatics Journal
 <img width="2339" height="1654" alt="award-2026" src="https://github.com/user-attachments/assets/a73c9a27-c205-4e87-9a4b-8e56f056783c" />
-
+2. Our lab is a recipient of the **Anthropic Claude Team Plan for Scientists program**
+   
 ## Tools I work with
 
 `Python` · `Streamlit` · `Biopython` · `RDKit` · molecular docking and MD (AutoDock Vina, OpenMM) · RNA structure prediction (ViennaRNA) · domain annotation (InterPro, Pfam) · TCGA / NCBI / UniProt / PDB data mining
