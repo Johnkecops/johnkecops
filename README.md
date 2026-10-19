@@ -41,11 +41,6 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 
 ## More on Publications and profiles
 
-- Google Scholar: [profile](https://scholar.google.com/citations?user=TjaczhcAAAAJ)
-- i3L faculty page: [i3l.ac.id](https://i3l.ac.id/our-faculty/dr-rer-nat-arli-aditya-parikesit)
-- ResearchGate: [Arli-Aditya-Parikesit](https://www.researchgate.net/profile/Arli-Aditya-Parikesit)
-- IntechOpen: [profile](https://www.intechopen.com/profiles/72288)
-
   <p align="center">
   <a href="https://scholar.google.com/citations?user=TjaczhcAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-profile-4285F4?logo=googlescholar&logoColor=white" height="40">
