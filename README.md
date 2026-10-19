@@ -22,7 +22,21 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 
 ## Tools I work with
 
-`Python` · `Streamlit` · `Biopython` · `RDKit` · molecular docking and MD (AutoDock Vina, OpenMM) · RNA structure prediction (ViennaRNA) · domain annotation (InterPro, Pfam) · TCGA / NCBI / UniProt / PDB data mining
+#`Python` · `Streamlit` · `Biopython` · `RDKit` · molecular docking and MD (AutoDock Vina, OpenMM) · RNA structure prediction (ViennaRNA) · domain annotation (InterPro, Pfam) · TCGA / NCBI / UniProt / PDB data mining
+
+![Python](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/framework-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Biopython](https://img.shields.io/badge/bioinformatics-Biopython-3776AB)
+![RDKit](https://img.shields.io/badge/cheminformatics-RDKit-3DA9FC)
+![AutoDock Vina](https://img.shields.io/badge/docking-AutoDock%20Vina-F28C28)
+![OpenMM](https://img.shields.io/badge/molecular%20dynamics-OpenMM-8A2BE2)
+![ViennaRNA](https://img.shields.io/badge/RNA%20structure-ViennaRNA-2E8B57)
+![InterPro](https://img.shields.io/badge/domain%20annotation-InterPro-0A7EA4)
+![Pfam](https://img.shields.io/badge/domain%20annotation-Pfam-0A7EA4)
+![TCGA](https://img.shields.io/badge/data%20mining-TCGA-6A5ACD)
+![NCBI](https://img.shields.io/badge/data%20mining-NCBI-0071BC)
+![UniProt](https://img.shields.io/badge/data%20mining-UniProt-6DB33F)
+![PDB](https://img.shields.io/badge/data%20mining-PDB-E34F26)
 
 ## More on Publications and profiles
 
