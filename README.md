@@ -13,6 +13,32 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 - Current interests: structural bioinformatics, transcriptomics and proteomics, bioalgorithms, immunoinformatics, and the application of AI to life-science problems
 - Editorial work: editorial board member at Springer-Nature journals ([BMC Bioinformatics](https://link.springer.com/journal/12859/editorial-board), [Scientific Reports](https://www.nature.com/srep/about/editors), [Scientific Review](https://www.nature.com/scirev/editors), [Discover Life](https://link.springer.com/journal/11084/editorial-board), and [Discover Bacteria](https://link.springer.com/journal/44351/editorial-board)); academic editor of several IntechOpen volumes on CRISPR, antiviral strategies, COVID-19 drug development, and omics-driven drug design; editor of [Indonesian Journal of Biotechnology](https://journal.ugm.ac.id/ijbiotech/about/editorialTeam); academic editor of [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/static/editorial-board?ae_name=Arli+Aditya+Parikesit) 
 
+<p align="center">
+  <a href="https://link.springer.com/journal/12859/editorial-board">
+    <img src="https://img.shields.io/badge/Editor-BMC%20Bioinformatics-0A7E8C" height="40">
+  </a>
+  <a href="https://www.nature.com/srep/about/editors">
+    <img src="https://img.shields.io/badge/Editor-Scientific%20Reports-1B5E8C" height="40">
+  </a>
+  <a href="https://www.nature.com/scirev/editors">
+    <img src="https://img.shields.io/badge/Editor-Scientific%20Review-2F6F9F" height="40">
+  </a>
+  <a href="https://link.springer.com/journal/11084/editorial-board">
+    <img src="https://img.shields.io/badge/Editor-Discover%20Life-3A7D44" height="40">
+  </a>
+  <a href="https://link.springer.com/journal/44351/editorial-board">
+    <img src="https://img.shields.io/badge/Editor-Discover%20Bacteria-5B7F2A" height="40">
+  </a>
+  <a href="https://www.intechopen.com/profiles/72288">
+    <img src="https://img.shields.io/badge/Academic%20Editor-IntechOpen%20Volumes-0B4F8A" height="40">
+  </a>
+  <a href="https://journal.ugm.ac.id/ijbiotech/about/editorialTeam">
+    <img src="https://img.shields.io/badge/Editor-Indonesian%20J.%20Biotechnology-B22222" height="40">
+  </a>
+  <a href="https://journals.plos.org/ploscompbiol/static/editorial-board?ae_name=Arli+Aditya+Parikesit">
+    <img src="https://img.shields.io/badge/Academic%20Editor-PLOS%20Comp%20Biology-0093D0" height="40">
+  </a>
+</p>
 ## Award
 1. Editor of Distinction Awards: Author Service Award 2026 from BMC Bioinformatics Journal
 <img width="2339" height="1654" alt="award-2026" src="https://github.com/user-attachments/assets/a73c9a27-c205-4e87-9a4b-8e56f056783c" />
