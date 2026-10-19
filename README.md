@@ -46,6 +46,21 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 - ResearchGate: [Arli-Aditya-Parikesit](https://www.researchgate.net/profile/Arli-Aditya-Parikesit)
 - IntechOpen: [profile](https://www.intechopen.com/profiles/72288)
 
+  <p align="center">
+  <a href="https://scholar.google.com/citations?user=TjaczhcAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-profile-4285F4?logo=googlescholar&logoColor=white" height="40">
+  </a>
+  <a href="https://i3l.ac.id/our-faculty/dr-rer-nat-arli-aditya-parikesit">
+    <img src="https://img.shields.io/badge/i3L-faculty%20page-1F4E79" height="40">
+  </a>
+  <a href="https://www.researchgate.net/profile/Arli-Aditya-Parikesit">
+    <img src="https://img.shields.io/badge/ResearchGate-profile-00CCBB?logo=researchgate&logoColor=white" height="40">
+  </a>
+  <a href="https://www.intechopen.com/profiles/72288">
+    <img src="https://img.shields.io/badge/IntechOpen-profile-0B4F8A" height="40">
+  </a>
+</p>
+
 ---
 
 *Open to collaboration on computational biology, immunoinformatics, and in silico drug design projects, and to student research supervision at i3L University.*
