@@ -77,13 +77,6 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
   <img src="https://github-readme-stats.vercel.app/api?username=johnkecops&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkecops&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnkecops&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Johnkecops&theme=dark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 ## More on Publications and profiles
 
