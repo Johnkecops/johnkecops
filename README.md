@@ -39,7 +39,9 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
     <img src="https://img.shields.io/badge/Academic%20Editor-PLOS%20Comp%20Biology-0093D0" height="40">
   </a>
 </p>
+
 ## Award
+
 1. Editor of Distinction Awards: Author Service Award 2026 from BMC Bioinformatics Journal
 <img width="2339" height="1654" alt="award-2026" src="https://github.com/user-attachments/assets/a73c9a27-c205-4e87-9a4b-8e56f056783c" />
 
