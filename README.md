@@ -48,8 +48,16 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 2. Our lab is a recipient of the **Anthropic Claude Team Plan for Scientists program (2026-2027)**
 [![Built with Claude](https://img.shields.io/badge/Built%20with-Claude-blue)](https://anthropic.com)
 
+## Editorial & Professional Development
+
 ## Tools I work with
 
+![BMC Editorial Board Training](https://img.shields.io/badge/BMC-Editorial_Board_Training-1F6FB2?style=flat-square)
+![Scientific Reports Editorial Board Training](https://img.shields.io/badge/Scientific_Reports-Editorial_Board_Training-2E8B57?style=flat-square)
+![Discover Bacteria Editorial Board Training](https://img.shields.io/badge/Discover_Bacteria-Editorial_Board_Training-7B3FA0?style=flat-square)
+![Springer Nature Research Ethics](https://img.shields.io/badge/Springer--Nature-Research_Ethics_Modules-C0392B?style=flat-square)
+![Elsevier Certified Peer Reviewer](https://img.shields.io/badge/Elsevier-Certified_Peer_Reviewer-FF6C00?style=flat-square)
+![NUS and Block71 Tech Transfer Workshop](https://img.shields.io/badge/NUS_and_Block71-Tech_Transfer_Workshop-003D7C?style=flat-square)
 
 <p align="center">
   <img src="https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white" height="40">
