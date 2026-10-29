@@ -67,16 +67,7 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
   <img src="https://img.shields.io/badge/data%20mining-PDB-E34F26" height="40">
 </p>
 
-## Github Analytic
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=johnkecops&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnkecops&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkecops&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
 ## More on Publications and profiles
 
