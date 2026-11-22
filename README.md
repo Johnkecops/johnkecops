@@ -11,6 +11,7 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 - Bachelor's and Master's in Chemistry (Biotechnology stream), Universitas Indonesia
 - Dr. rer. nat. (PhD) in Bioinformatics, Bioinformatics Group, University of Leipzig, Germany (Supported by [the DAAD fellowship](https://www.daad.de/en/)). Doctoral work: modern protein domain annotation across the three domains of life
 - Current interests: structural bioinformatics, transcriptomics and proteomics, bioalgorithms, immunoinformatics, and the application of AI to life-science problems
+- Advisor at [Virtual Research Center for Bioinformatics and Biotechnology (VRCBB)](https://jalantengah.site/vrcbb/), Surabaya, Indonesia.
 - Editorial work: editorial board member at these journals:
 
 <p align="center">
