@@ -97,5 +97,6 @@ Bioinformatician working on immunoinformatics, in silico drug design, in silico 
 </p>
 
 ---
+[![Arli's GitHub stats](https://github-stats-extended.vercel.app/api?username=johnkecops)](https://github.com/stats-organization/github-stats-extended)
 
 *Open to collaboration on computational biology, immunoinformatics, and in silico drug design projects, and to student research supervision at i3L University.*
